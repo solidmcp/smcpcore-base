@@ -1,0 +1,4 @@
+smcpcore-base
+=============
+
+SolidMCP::Base
